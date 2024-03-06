@@ -27,7 +27,7 @@
 #include "Stream.h"
 #include "variant.h"
 
-#define BUFFER_LENGTH 32
+#define BUFFER_LENGTH 256
 
  // WIRE_HAS_END means Wire has end()
 #define WIRE_HAS_END 1
